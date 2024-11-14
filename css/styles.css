@@ -1,0 +1,173 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.sour-gummy-font {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings: 
+  "wdth" 100;
+}
+
+.logo{
+    align-items: auto;
+    vertical-align: auto;
+}
+
+.mapa{
+     margin-inline: auto;
+}
+  
+body {
+    font-family: 'Sour Gummy', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer, nav {
+    background-color: #5f9cf8;
+    padding: 10px;
+}
+
+
+.contacto-container h1 {
+    font-size: 2rem;
+    color: #630e0e;
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+.productos-section {
+    background-color: #498519;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    background-color: #5da063;
+    border: 1px solid #282904;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    flex: 0 1 calc(30% - 20px); /* Flexbox para responsividad */  
+}
+
+.card img{
+    width:200px%;
+    height:  200px;
+    border-radius:  25px 25px 0 0;
+}
+
+.resenias-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    background-color: aquamarine;
+    border: 2px  solid #5f9cf8;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+
+
+}
+
+.contacto-section {
+    text-align: center;
+}
+
+.mapa-responsive{
+    width: 100%;
+    max-width: 800px; 
+    height: 400px; 
+    flex: 1;
+    display: flex; 
+}
+
+.form-msj{
+    max-width: 90%;
+    width: 99%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #39804a;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(35, 172, 182, 0.7);
+    text-align: center;
+    
+}
+
+.form-msj img{
+    align: center;
+}
+
+.titulo{
+    font-style: italic;
+    padding-left: 100px;
+    padding-right: 300px;
+}
+
+h1{
+    margin-left: 50px;
+}
+
+h2{
+    margin-left: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .titulo{
+        padding-left: 20px;
+        padding-right: 100px;
+    }
+    .card {
+        flex-basis: calc(50% - 20px);
+    }
+
+    .resenias-section {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+}
+
+
+@media (min-width: 768px) {
+    .titulo{
+        padding-left: 30px;
+        padding-right: 150px;
+    }
+    .card {
+        flex-basis: calc(50% - 12px);
+    }
+
+    .resenias-section {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    }
+}
+
+
+@media (min-width: 1024px) {
+    .titulo{
+        padding-left: 100px;
+        padding-right: 300px;
+    }
+    .card {
+        flex-basis: calc(50% - 5px);
+    }
+
+    .resenias-section {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    }
+}
+ 
