@@ -37,6 +37,19 @@ footer {
     border-radius:  20px;
 }
 
+.contacto-section {
+    display:grid;
+    background-color: #EE9003;
+    margin-top: 110px;
+    border-radius: 25px;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.columna-contacto{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
 
 
 .menu{
