@@ -108,3 +108,20 @@ function decrementarCantidad(id){
   }
   mostrarCarrito();
 };
+
+
+if (checkoutBtn) {
+  checkoutBtn.addEventListener('click', () => {
+      if (carritoVacio()) {
+          alert('No hay productos en el carrito! Agregue algo antes de finalizar la compra.');
+      } else {
+          alert('¡Muchas gracias por su compra!');
+          vaciarCarrito();
+      }
+  });
+}
+
+function carritoVacio() {
+  let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
+  return carrito.length === 0;
+}
