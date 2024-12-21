@@ -530,12 +530,12 @@ a{
 }
 
 @media (min-width: 600px) {
-.product-info {
-     grid-template-columns: repeat(2,1fr);
- 
-.section-carrito{
-    margin-top:100px;
-}
+    .product-info {
+        grid-template-columns: repeat(2,1fr);
+    }
+    .section-carrito{
+        margin-top:100px;
+    }
 }
 
 @media (min-width: 768px) {
