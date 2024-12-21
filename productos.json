@@ -1,0 +1,64 @@
+[
+    {     "id":1,
+    "nombre": "Yosemite 120w",
+    "imagen": "./img/bomba-1.webp",
+    "Descripcion":"YSM209.",
+    "precio": 31590
+        
+    },
+    {   
+        "id":2,
+        "nombre": "Libercam",
+        "imagen": "./img/bomba-2.webp",
+        "Descripcion":"BDA-30/BDA-10.",
+        "precio": 23000
+        
+    },
+    {   
+        "id":3,
+        "nombre": "Lüsqtoff",
+        "imagen": "./img/bomba-3.webp",
+        "Descripcion":"LPS15 8.5z.",
+        "precio": 26000
+    },
+    {    "id":4,
+        "nombre": "Lüsqtoff",
+        "imagen": "./img/bomba-4.webp",
+        "Descripcion":"LPS15 10.5z.",
+        "precio": 14900
+     
+    },
+    {   
+        "id": 5,
+        "nombre": "GENEVE",
+       "imagen": "./img/bomba-5.webp",
+       "Descripcion":"GE-PR100.",
+        "precio": 31500
+        
+    },
+    {   
+        "id":6,
+        "nombre": "HARDEST",
+        "imagen": "./img/bomba-6.webp",
+        "Descripcion":"HEPC1.",
+        "precio": 43000
+        
+    },
+    {  
+        "id": 7,
+        "nombre": "Grundfos",
+       "imagen": "./img/bomba-7.webp",
+       "Descripcion":"UPA 15-90 BLACK.",
+        "precio": 36000 
+      
+    },
+    {   
+        "id":8,
+        "nombre": "Vasser",
+        "imagen": "./img/bomba-8.webp",
+        "Descripcion":"VPRE-2.",
+        "precio": 23000
+       
+    }
+
+]
