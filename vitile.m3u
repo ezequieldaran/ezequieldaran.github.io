@@ -65,3 +65,12 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#extra directv
+#EXTINF:-1 tvg-id="DIRECT TV" tvg-name="DIRECT TV" tvglogo="http://alcymedia.com/wpcontent/uploads/2017/08/directvsportsplustv.png" grouptitle="DEPORTES",DIRECT TV
+http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/2262.ts
+#EXTINF:-1 tvg-id="DIRECT TV" tvg-name="DIRECT TV" tvglogo="http://alcymedia.com/wpcontent/uploads/2017/08/directvsportsplustv.png" grouptitle="DEPORTES",DIRECT TV
+http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/1667.ts
+#EXTINF:-1 tvg-id="DIRECT TV" tvg-name="DIRECT TV" tvglogo="http://alcymedia.com/wpcontent/uploads/2017/08/directvsportsplustv.png" grouptitle="DEPORTES",DIRECT TV
+http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/2263.ts
+#EXTINF:-1 tvg-id="MOVISTAR FUTBOL" tvg-name="MOVISTAR FUTBOL" tvglogo="http://www.mediafire.com/convkey/3816/91wi1bpvsq1x817zg.jpg" grouptitle="DEPORTES",MOVISTAR FUTBOL
+http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/384.ts
