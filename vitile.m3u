@@ -76,22 +76,33 @@ http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/2263.ts
 http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/384.ts
 #EXTINF:-1  group-title="Lista 14",TYC SPORTS | HD 
 http://195.181.163.39:80/ARG-TYCSPORTS/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="ESPN1 SUR"http://134.19.182.131:8080/vdg13.m3u8?h=1ab5f35cd62f7eefbf2ff57c1bb4f9a3?SBN
+#EXTINF:-1,tvg-id="" tvg-name="ESPN1 SUR"http://134.19.182.131:8080/vdg13.m3u8?h=1ab5f35cd62f7eefbf2ff57c1bb4f9a3?SBN"
 http://195.181.163.39/DEP_ESPN_ARG/index.m3u8
-TYC SPORTS
+#EXTINF:-1,tvg-id="" tvg-name="TYC SPORTS"
 https://cdn14.esp-cdn.xyz/?g=embed/p/100005.html
+#EXTINF:-1,tvg-id=""
 https://i.futbollibre.net/tycjson.html
+#EXTINF:-1,tvg-id=""
 https://pelotero.net/directvsports.phpDIRECT-TV
+#EXTINF:-1,tvg-id=""
 https://g2.futbolargento.com/dtvjson.html
-#
+#EXTINF:-1,tvg-id=""
 https://televisionlibre.net/embed/hlsplayer.html?get=aHR0cHM6Ly9lbWIzZGZ1dGIwbDFicmUuYmxvZ3Nwb3QuY29tLw==
-#
+#EXTINF:-1,tvg-id=""
 https://embed6fl.blogspot.com/#https://int21h.blowerclaster.xyz/embed/D1.html
+#EXTINF:-1,tvg-id=""
 https://g2.futbolargento.com/dtvjson.htmlhttps://embed6fl.blogspot.com/
+#EXTINF:-1,tvg-id=""
 https://int21h.blowerclaster.xyz/embed/D1.html
+#EXTINF:-1,tvg-id=""
 https://i.futbollibre.net/dtvjson.html
+#EXTINF:-1,tvg-id=""
 https://bird-12.frge.io/
+#EXTINF:-1,tvg-id=""
 https://televisionlibre.net/embed/hlsplayer.html?get=aHR0cHM6Ly9lbWIzZGZ1dGIwbDFicmUuYmxvZ3Nwb3QuY29tLw==
+#EXTINF:-1,tvg-id=""
 https://embed5fl.blogspot.com/
+#EXTINF:-1,tvg-id=""
 https://int21h.blowerclaster.xyz/embed/D1.html
+#EXTINF:-1,tvg-id=""
 https://pelotero.net/directvsports.php
