@@ -72,9 +72,5 @@ http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/2262.ts
 http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/1667.ts
 #EXTINF:-1 tvg-id="DIRECT TV" tvg-name="DIRECT TV" tvglogo="http://alcymedia.com/wpcontent/uploads/2017/08/directvsportsplustv.png" grouptitle="DEPORTES",DIRECT TV
 http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/2263.ts
-#EXTINF:-1 tvg-id="MOVISTAR FUTBOL" tvg-name="MOVISTAR FUTBOL" tvglogo="http://www.mediafire.com/convkey/3816/91wi1bpvsq1x817zg.jpg" grouptitle="DEPORTES",MOVISTAR FUTBOL
-http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/384.ts
-#EXTINF:-1  group-title="Lista 14",TYC SPORTS | HD 
-http://195.181.163.39:80/ARG-TYCSPORTS/index.m3u8
-#EXTINF:-1,tvg-id="ESPN1" tvg-name="ESPN1 SUR"http://134.19.182.131:8080/vdg13.m3u8?h=1ab5f35cd62f7eefbf2ff57c1bb4f9a3?SBN"
+#EXTINF:-1 tvg-id="ESPN1" tvg-name="ESPN1 SUR"http://134.19.182.131:8080/vdg13.m3u8?h=1ab5f35cd62f7eefbf2ff57c1bb4f9a3?SBN"
 http://195.181.163.39/DEP_ESPN_ARG/index.m3u8
